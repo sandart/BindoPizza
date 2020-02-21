@@ -1,0 +1,17 @@
+PODS:
+  - PKHUD (5.3.0)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+
+DEPENDENCIES:
+  - PKHUD (~> 5.0)
+  - SQLite.swift (~> 0.12.0)
+
+SPEC CHECKSUMS:
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+
+PODFILE CHECKSUM: 7bed9749a9f4832bd5cebc4d468adf0f65b3e33f
+
+COCOAPODS: 1.4.0
